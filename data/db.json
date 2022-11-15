@@ -1,0 +1,22 @@
+{
+    "blogs":[
+        {
+            "id": 1,
+            "title":"My First Blog",
+            "body": "Dojo Blog is the best blog ever I made",
+            "author":"Gemar"
+        },
+        {
+            "id": 2,
+            "title":"My Second Blog",
+            "body": "Dojo Blog is the best blog ever I made",
+            "author":"Emay"
+        },
+        {
+            "id": 3,
+            "title":"My Third Blog",
+            "body": "Dojo Blog is the best blog ever I made",
+            "author":"Pehing"
+        }
+    ]
+}
